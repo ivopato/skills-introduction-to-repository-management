@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ivopato
+/src/backend/database.py      @ivopato
+/src/backend/routers/auth.py  @ivopato
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ivopato
